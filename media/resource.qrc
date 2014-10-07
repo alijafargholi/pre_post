@@ -1,0 +1,19 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>about.png</file>
+     <file>addnote.png</file>
+     <file>editmenu.png</file>
+     <file>emailselected.png</file>
+     <file>exportdata.png</file>
+     <file>filemenu.png</file>
+     <file>helpmenu.png</file>
+     <file>importdata.png</file>
+     <file>removenote.png</file>
+     <file>setting.png</file>
+     <file>updatenote.png</file>
+     <file>wiki.png</file>
+     <file>abouticon.png</file>
+     <file>snapshot.png</file>
+     <file>prepost_logo_01.png</file>
+ </qresource>
+ </RCC>
